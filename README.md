@@ -27,6 +27,7 @@ Users should be able to:
 
 - HTML
 - CSS
+- JavaScript
 
 ## Author
 
