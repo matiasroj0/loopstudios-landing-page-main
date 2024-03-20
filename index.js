@@ -38,11 +38,11 @@ x.addEventListener("change", function () {
   myFunction(x);
 });
 
-creations.forEach((creation) => {
-  creation.addEventListener("mouseover", () => {
-    creation.classList.add("creation-hover");
-  });
-  creation.addEventListener("mouseout", () => {
-    creation.classList.remove("creation-hover");
-  });
-});
+// creations.forEach((creation) => {
+//   creation.addEventListener("mouseover", () => {
+//     creation.classList.add("creation-hover");
+//   });
+//   creation.addEventListener("mouseout", () => {
+//     creation.classList.remove("creation-hover");
+//   });
+// });
