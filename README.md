@@ -4,7 +4,7 @@ This is a solution to the [Loopstudios landing page challenge on Frontend Mentor
 
 ### Links
 
-- Live Site URL:
+- Live Site URL: https://matiasrojo-loopstudioslandingpage.netlify.app/
 
 ### The challenge
 
